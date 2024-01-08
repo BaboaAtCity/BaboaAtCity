@@ -1,5 +1,7 @@
-## Hello! 👋
+## Welcome to my github! 
 - 🚄 I’m mainly working on backend software
+- ⚡My languages and technologies: ExpressJS, JavaScript+React, Python, Java, PHP+Laravel, AWS
+- ⛰I am currently working on a optometry business solution 
 - 📥 Contact me at ababoa22@gmail.com
 <!--
 
