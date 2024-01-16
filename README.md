@@ -1,7 +1,7 @@
 ## Welcome to my github! 
 - 🚄 I’m mainly working on Web Applications and Backend Systems
 - ⚡My languages and technologies: ExpressJS, JavaScript+React, Python, Java, PHP+Laravel and AWS
-- ⛰I am currently working on a optometry business solution built on the MERN stack
+- ⛰Currently I am developing an optometry business solution built on the MERN stack
 - 📥 Contact me at ababoa22@gmail.com
 <!--
 
