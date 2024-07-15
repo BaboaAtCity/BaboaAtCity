@@ -2,7 +2,7 @@
 - 🚄 I’m mainly working on Web Applications and Backend Systems
 - ⚡My languages and technologies: ExpressJS, JavaScript+React, Python, Java, PHP+Laravel and AWS
 - ⛰Currently I am developing an optometry business solution built on the MERN stack
-- 📥 Contact me at ababoa22@gmail.com
+- 📥 [My Portfolio](https://nextjs-portfolio-theta-orpin-56.vercel.app/)
 <!--
 
 Here are some ideas to get you started:
