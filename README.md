@@ -1,7 +1,8 @@
 ## Welcome to my github! 
 - 🚄 I’m mainly working on Web Applications and Backend Systems
-- ⚡My languages and technologies: ExpressJS, JavaScript+React, Python, Java, PHP+Laravel and AWS
-- ⛰Currently I am developing an optometry business solution built on the MERN stack
+- ⚡My tech stack: Python, TypeScript, React, Java.
+- ⛰Currently I am building web scraping systems and managing 20+ deployed low latency request based scripts
+- 🛠️Slowly learning Golang to improve my systems effeciency
 - 📥 [My Portfolio](https://nextjs-portfolio-theta-orpin-56.vercel.app/)
 <!--
 
