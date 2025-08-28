@@ -2,7 +2,7 @@
 - 🚄 I’m mainly working on Web Applications and Backend Systems
 - ⚡My tech stack: Python, TypeScript, React, Java.
 - ⛰Currently I am building web scraping systems and managing 20+ deployed low latency request based scripts
-- 🛠️Slowly learning Golang to improve my systems effeciency
+- 🛠️Learning Golang to improve my systems effeciency
 - 📥 [My Portfolio](https://nextjs-portfolio-theta-orpin-56.vercel.app/)
 <!--
 
